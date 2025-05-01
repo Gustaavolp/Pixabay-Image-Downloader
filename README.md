@@ -110,7 +110,7 @@ O Pixabay Image Downloader suporta todos os parâmetros da API do Pixabay:
 
 ## 📝 Licença e Atribuição
 
-Este software é distribuído sob a licença MIT. Veja o arquivo LICENSE para detalhes.
+Este software é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 **Importante**: As imagens baixadas estão sujeitas à [Licença de Conteúdo do Pixabay](https://pixabay.com/service/license/).
 
